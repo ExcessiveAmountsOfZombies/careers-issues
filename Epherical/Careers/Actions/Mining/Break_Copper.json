@@ -1,0 +1,10 @@
+{
+  "Type": "BreakBlock",
+  "Career": "Miner",
+  "ExpReward": 10,
+  "MoneyReward": 1,
+  "Item": [
+    ""
+  ],
+  "Pattern": "Ore_Copper_.*"
+}

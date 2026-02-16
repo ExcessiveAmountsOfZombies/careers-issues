@@ -1,0 +1,32 @@
+epherical.commands.careers.desc=Careers commands.
+epherical.commands.careers.stats.desc=Show your career stats.
+epherical.commands.careers.stats.playersOnly=This command can only be used by players.
+epherical.commands.careers.stats.noData=No career data loaded.
+epherical.commands.careers.stats.header=Your career stats:
+epherical.commands.careers.stats.line={career} | Level {level} | XP {exp}/{maxExp}
+
+epherical.commands.careers.info.desc=Show details about a career.
+epherical.commands.careers.info.notFound=That career could not be found.
+epherical.commands.careers.info.header=Career info:
+epherical.commands.careers.info.arg.career.name=career
+epherical.commands.careers.info.arg.career.usage=Career ID
+epherical.commands.careers.info.arg.career.desc=The career to show info for.
+epherical.commands.careers.info.arg.page.desc=Which page of actions to show.
+
+epherical.commands.careers.top.desc=Show the top players for a career.
+epherical.commands.careers.top.arg.page.desc=Which page of the leaderboard to show.
+
+epherical.commands.careers.levelup=You leveled up in
+epherical.commands.careers.notification.expGain=You earned {exp} XP and {money} coins in {career}.
+
+epherical.careers.Miner.description=Miners receive rewards for mining blocks in the world!
+epherical.careers.Miner.name=Miner
+
+
+epherical.notifications.careers.levelup=[Careers] Nice work, {player}! {career} level up: {oldLvl} -> {newLvl}.
+epherical.notifications.careers.levelup.title=Level Up!
+epherical.notifications.careers.levelup.major=[Careers] Big News! {player} has just leveled {career} to {newLvl}. Congratulate them!
+epherical.notifications.careers.levelup.minor=[Careers] Great Work {player} on leveling {career} to {newLvl}. Keep it up!
+
+epherical.notifications.careers.place.fail.cached=[Careers] Cannot receive EXP because you have placed a block here recently.
+

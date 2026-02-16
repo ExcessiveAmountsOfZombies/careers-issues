@@ -1,0 +1,24 @@
+{
+  "Type": "Crafting",
+  "Career": "Blacksmith",
+  "ExpReward": 10,
+  "MoneyReward": 1,
+  "MaterialValues": [
+    {
+      "Item": "Ingredient_Bar_Iron",
+      "Money": 0.3,
+      "Exp": 3
+    },
+    {
+      "Item": "Ingredient_Fabric_Scrap_Linen",
+      "Money": 0.2,
+      "Exp": 2
+    },
+    {
+      "Item": "Ingredient_Leather_Light",
+      "Money": 0.4,
+      "Exp": 4
+    }
+  ],
+  "Pattern": "^Armor_Iron_[a-z0-9A-Z]+$"
+}

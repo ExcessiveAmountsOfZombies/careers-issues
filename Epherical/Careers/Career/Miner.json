@@ -1,0 +1,52 @@
+{
+  "Icon": "Icons/ItemsGenerated/Tool_Pickaxe_Cobalt.png",
+  "Description": "Gain money for mining blocks",
+  "Name": "Miner",
+  "Color": "#1947c7",
+  "ExpScaling": "1000*1.05^(lvl-1)",
+  "Notifications": [
+    {
+      "Type": "Chat",
+      "Message": "server.epherical.notifications.careers.levelup",
+      "Trigger": {
+        "Type": "LevelUp"
+      },
+      "Condition": []
+    },
+    {
+      "Type": "Title",
+      "Trigger": {
+        "Type": "LevelUp"
+      },
+      "Condition": [
+        {
+          "Id": "EveryXLevels",
+          "EveryXLevels": 50
+        }
+      ],
+      "Message": "server.epherical.notifications.careers.levelup.major",
+      "Global": true
+    },
+    {
+      "Type": "Notification",
+      "Message": "server.epherical.notifications.careers.levelup.minor",
+      "Trigger": {
+        "Type": "LevelUp"
+      },
+      "Condition": [
+        {
+          "Id": "EveryXLevels",
+          "EveryXLevels": 10
+        }
+      ]
+    }
+  ],
+  "ExpScalers": {
+    "1": {
+      "Parser": "1000*1.05^(lvl-1)"
+    },
+    "100": {
+      "Parser": "14000000"
+    }
+  }
+}

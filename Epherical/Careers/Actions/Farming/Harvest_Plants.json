@@ -1,0 +1,8 @@
+{
+  "Type": "HarvestCrop",
+  "BlockState": "StageFinal",
+  "ItemPattern": "^[Pp]lant_[Cc]rop_[a-z0-9A-Z]+_[Bb]lock$",
+  "ExpReward": 2,
+  "MoneyReward": 0.2,
+  "Career": "Farmer"
+}

@@ -1,0 +1,7 @@
+{
+  "Type": "Eliminate",
+  "Career": "MonsterHunter",
+  "ExpReward": 40.0,
+  "MoneyReward": 4,
+  "Pattern": "^[Oo]utlander_.*$"
+}

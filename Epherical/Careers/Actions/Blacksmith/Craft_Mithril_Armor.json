@@ -1,0 +1,24 @@
+{
+  "Type": "Crafting",
+  "Career": "Blacksmith",
+  "ExpReward": 10,
+  "MoneyReward": 1,
+  "MaterialValues": [
+    {
+      "Item": "Ingredient_Bar_Mithril",
+      "Money": 0.7,
+      "Exp": 7
+    },
+    {
+      "Item": "Ingredient_Leather_Storm",
+      "Money": 0.4,
+      "Exp": 4
+    },
+    {
+      "Item": "Ingredient_Void_Essence",
+      "Money": 0.01,
+      "Exp": 0.4
+    }
+  ],
+  "Pattern": "^Armor_Mithril_[a-z0-9A-Z]+$"
+}

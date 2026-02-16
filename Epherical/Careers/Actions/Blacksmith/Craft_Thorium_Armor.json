@@ -1,0 +1,24 @@
+{
+  "Type": "Crafting",
+  "Career": "Blacksmith",
+  "ExpReward": 10,
+  "MoneyReward": 1,
+  "MaterialValues": [
+    {
+      "Item": "Ingredient_Bar_Thorium",
+      "Money": 0.5,
+      "Exp": 5
+    },
+    {
+      "Item": "Ingredient_Fabric_Scrap_Linen",
+      "Money": 0.2,
+      "Exp": 2
+    },
+    {
+      "Item": "Ingredient_Leather_Medium",
+      "Money": 0.5,
+      "Exp": 5
+    }
+  ],
+  "Pattern": "^Armor_Thorium_[a-z0-9A-Z]+$"
+}

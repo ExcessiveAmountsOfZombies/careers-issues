@@ -1,0 +1,7 @@
+{
+  "Type": "Eliminate",
+  "Career": "MonsterHunter",
+  "ExpReward": 25,
+  "MoneyReward": 2.5,
+  "Pattern": "^[Ss]keleton_.*$"
+}

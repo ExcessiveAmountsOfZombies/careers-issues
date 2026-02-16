@@ -1,0 +1,19 @@
+{
+  "Type": "Crafting",
+  "Career": "Blacksmith",
+  "ExpReward": 10,
+  "MoneyReward": 1,
+  "MaterialValues": [
+    {
+      "Item": "Ingredient_Bar_Copper",
+      "Money": 0.3,
+      "Exp": 3
+    },
+    {
+      "Item": "Ingredient_Fibre",
+      "Money": 0.1,
+      "Exp": 1
+    }
+  ],
+  "Pattern": "^Armor_Copper_[a-z0-9A-Z]+$"
+}

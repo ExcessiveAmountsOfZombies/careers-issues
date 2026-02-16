@@ -1,0 +1,12 @@
+{
+  "Type": "BreakBlock",
+  "Career": "Miner",
+  "ExpReward": 0.5,
+  "MoneyReward": 0.5,
+  "Item": [
+    "Rock_Basalt",
+    "Rock_Chalk",
+    "Rock_Aqua"
+  ],
+  "Pattern": "^Rock_[^_]+$"
+}

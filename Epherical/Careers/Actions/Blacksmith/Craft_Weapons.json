@@ -1,0 +1,84 @@
+{
+  "Type": "Crafting",
+  "Career": "Blacksmith",
+  "ExpReward": 0,
+  "MoneyReward": 0,
+  "MaterialValues": [
+    {
+      "Item": "Ingredient_Bar_Cobalt",
+      "Money": 0.5,
+      "Exp": 5
+    },
+    {
+      "Item": "Ingredient_Fabric_Scrap_Shadoweave",
+      "Money": 0.2,
+      "Exp": 2
+    },
+    {
+      "Item": "Ingredient_Leather_Heavy",
+      "Money": 0.6,
+      "Exp": 6
+    },
+    {
+      "Item": "Ingredient_Bar_Copper",
+      "Money": 0.3,
+      "Exp": 3
+    },
+    {
+      "Item": "Ingredient_Bar_Adamantite",
+      "Money": 0.6,
+      "Exp": 6
+    },
+    {
+      "Item": "Ingredient_Fabric_Scrap_Cindercloth",
+      "Money": 0.2,
+      "Exp": 2
+    },
+    {
+      "Item": "Ingredient_Leather_Heavy",
+      "Money": 0.6,
+      "Exp": 6
+    },
+    {
+      "Item": "Ingredient_Fibre",
+      "Money": 0.1,
+      "Exp": 1
+    },
+    {
+      "Item": "Ingredient_Bar_Iron",
+      "Money": 0.3,
+      "Exp": 3
+    },
+    {
+      "Item": "Ingredient_Fabric_Scrap_Linen",
+      "Money": 0.2,
+      "Exp": 2
+    },
+    {
+      "Item": "Ingredient_Leather_Light",
+      "Money": 0.4,
+      "Exp": 4
+    },
+    {
+      "Item": "Ingredient_Bar_Mithril",
+      "Money": 0.7,
+      "Exp": 7
+    },
+    {
+      "Item": "Ingredient_Leather_Storm",
+      "Money": 0.4,
+      "Exp": 4
+    },
+    {
+      "Item": "Ingredient_Void_Essence",
+      "Money": 0.01,
+      "Exp": 0.4
+    },
+    {
+      "Item": "Ingredient_Bar_Thorium",
+      "Money": 0.5,
+      "Exp": 5
+    }
+  ],
+  "Pattern": "^Weapon_[a-z0-9A-Z_]+$"
+}

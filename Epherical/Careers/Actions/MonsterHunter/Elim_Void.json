@@ -1,0 +1,7 @@
+{
+  "Type": "Eliminate",
+  "Career": "MonsterHunter",
+  "ExpReward": 5,
+  "MoneyReward": 0.5,
+  "Pattern": "^[A-Za-z]+_Void$"
+}

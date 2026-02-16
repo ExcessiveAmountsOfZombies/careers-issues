@@ -1,0 +1,7 @@
+{
+  "Type": "Eliminate",
+  "Career": "MonsterHunter",
+  "ExpReward": 35.0,
+  "MoneyReward": 3.5,
+  "Pattern": "^[Tr]ork_.*$"
+}

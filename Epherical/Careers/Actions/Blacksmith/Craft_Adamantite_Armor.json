@@ -1,0 +1,24 @@
+{
+  "Type": "Crafting",
+  "Career": "Blacksmith",
+  "ExpReward": 10,
+  "MoneyReward": 1,
+  "MaterialValues": [
+    {
+      "Item": "Ingredient_Bar_Adamantite",
+      "Money": 0.6,
+      "Exp": 6
+    },
+    {
+      "Item": "Ingredient_Fabric_Scrap_Cindercloth",
+      "Money": 0.2,
+      "Exp": 2
+    },
+    {
+      "Item": "Ingredient_Leather_Heavy",
+      "Money": 0.6,
+      "Exp": 6
+    }
+  ],
+  "Pattern": "^Armor_Adamantite_[a-z0-9A-Z]+$"
+}
