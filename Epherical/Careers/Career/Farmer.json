@@ -48,5 +48,161 @@
     "100": {
       "Parser": "14000000"
     }
+  },
+  "LevelReward": {
+    "1": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Aubergine",
+          "Quantity": 10
+        }
+      }
+    ],
+    "5": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Tool_Hoe_Thorium"
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Carrot",
+          "Quantity": 20
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Cauliflower",
+          "Quantity": 20
+        }
+      }
+    ],
+    "10": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Aubergine_Eternal",
+          "Quantity": 1
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Carrot_Eternal",
+          "Quantity": 1
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Corn",
+          "Quantity": 20
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Chilli",
+          "Quantity": 20
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Cotton",
+          "Quantity": 20
+        }
+      }
+    ],
+    "25": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Aubergine_Eternal",
+          "Quantity": 5
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Corn_Eternal",
+          "Quantity": 5
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Onion_Eternal",
+          "Quantity": 5
+        }
+      }
+    ],
+    "30": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Wheat_Eternal",
+          "Quantity": 5
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Turnip_Eternal",
+          "Quantity": 5
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Crop_Lettuce_Block_Eternal",
+          "Quantity": 5
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Tomato_Eternal",
+          "Quantity": 5
+        }
+      }
+    ],
+    "75": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Pumpkin_Eternal",
+          "Quantity": 25
+        }
+      }
+    ],
+    "100": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Tool_Hoe_Thorium",
+          "Quantity": 1,
+          "Durability": 5000
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Corn_Eternal",
+          "Quantity": 100
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Plant_Seeds_Rice_Eternal",
+          "Quantity": 100
+        }
+      }
+    ]
   }
 }
