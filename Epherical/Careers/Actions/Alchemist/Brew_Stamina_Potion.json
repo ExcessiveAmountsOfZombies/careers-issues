@@ -1,0 +1,12 @@
+{
+  "Type": "Crafting",
+  "Career": "Alchemist",
+  "ExpReward": 15,
+  "MoneyReward": 2,
+  "Item": [
+    "Potion_Stamina_Lesser",
+    "Potion_Stamina_Greater"
+  ],
+  "ExpRewardMultiplier": "base*quant",
+  "MoneyRewardMultiplier": "base*(0.25*quant)"
+}

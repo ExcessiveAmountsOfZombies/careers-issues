@@ -1,0 +1,11 @@
+{
+  "Type": "Crafting",
+  "Career": "Alchemist",
+  "ExpReward": 25,
+  "MoneyReward": 5,
+  "Item": [
+    "Potion_Antidote"
+  ],
+  "ExpRewardMultiplier": "",
+  "MoneyRewardMultiplier": ""
+}
