@@ -48,5 +48,202 @@
     "100": {
       "Parser": "14000000"
     }
+  },
+  "LevelReward": {
+    "1": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ingredient_Charcoal",
+          "Quantity": 5
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ore_Copper",
+          "Quantity": 5
+        }
+      }
+    ],
+    "5": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ingredient_Charcoal",
+          "Quantity": 5
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ore_Iron",
+          "Quantity": 5
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Furniture_Crude_Torch",
+          "Quantity": 75
+        }
+      }
+    ],
+    "10": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Rock_Gem_Diamond",
+          "Quantity": 1
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ore_Iron",
+          "Quantity": 30
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ingredient_Charcoal",
+          "Quantity": 40
+        }
+      },
+      null
+    ],
+    "20": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ore_Gold",
+          "Quantity": 30
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ingredient_Charcoal",
+          "Quantity": 30
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Tool_Pickaxe_Iron"
+        }
+      }
+    ],
+    "30": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ore_Thorium",
+          "Quantity": 40
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ore_Cobalt",
+          "Quantity": 40
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ingredient_Charcoal",
+          "Quantity": 100
+        }
+      }
+    ],
+    "40": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ore_Silver",
+          "Quantity": 40
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ore_Gold",
+          "Quantity": 40
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ingredient_Charcoal",
+          "Quantity": 80
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Tool_Repair_Kit_Rare",
+          "Quantity": 5
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Tool_Pickaxe_Cobalt",
+          "Quantity": 1,
+          "Durability": 400,
+          "MaxDurability": 400
+        }
+      }
+    ],
+    "50": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ore_Adamantite",
+          "Quantity": 20
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Rock_Gem_Diamond",
+          "Quantity": 24
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ingredient_Charcoal",
+          "Quantity": 50
+        }
+      }
+    ],
+    "100": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Ore_Onyxium",
+          "Quantity": 40
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Tool_Repair_Kit_Rare",
+          "Quantity": 20
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Tool_Pickaxe_Mithril",
+          "Quantity": 1,
+          "Durability": 2000,
+          "MaxDurability": 2000
+        }
+      }
+    ]
   }
 }
