@@ -48,5 +48,57 @@
     "100": {
       "Parser": "14000000"
     }
+  },
+  "LevelReward": {
+    "1": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Tool_Shovel_Iron",
+          "Quantity": 1,
+          "Durability": 500
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Furniture_Crude_Torch",
+          "Quantity": 100
+        }
+      }
+    ],
+    "10": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Tool_Shovel_Cobalt",
+          "Durability": 1000,
+          "Quantity": 1
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Furniture_Ancient_Torch",
+          "Quantity": 100
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Furniture_Human_Ruins_Bookshelf",
+          "Quantity": 50
+        }
+      }
+    ],
+    "100": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Launchpad",
+          "Quantity": 1
+        }
+      }
+    ]
   }
 }

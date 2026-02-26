@@ -1,7 +1,7 @@
 {
   "Type": "PlaceBlock",
   "Career": "Builder",
-  "ExpReward": 1,
+  "ExpReward": 10,
   "MoneyReward": 1,
   "Pattern": "^Rock_Slate_.*"
 }
