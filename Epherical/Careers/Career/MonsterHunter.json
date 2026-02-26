@@ -48,5 +48,63 @@
     "100": {
       "Parser": "14000000"
     }
+  },
+  "LevelReward": {
+    "1": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Weapon_Axe_Copper"
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Weapon_Sword_Copper"
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Weapon_Battleaxe_Copper"
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Weapon_Club_Copper"
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Weapon_Daggers_Copper"
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Weapon_Longsword_Copper"
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Weapon_Mace_Copper"
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Weapon_Spear_Copper"
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Weapon_Shield_Copper"
+        }
+      }
+    ]
   }
 }

@@ -48,5 +48,245 @@
     "100": {
       "Parser": "14000000"
     }
+  },
+  "LevelReward": {
+    "5": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Copper_Chest",
+          "Durability": 150,
+          "MaxDurability": 150
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Copper_Hands",
+          "Durability": 150,
+          "MaxDurability": 150
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Copper_Head",
+          "Durability": 150,
+          "MaxDurability": 150
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Copper_Legs",
+          "Durability": 150,
+          "MaxDurability": 150
+        }
+      }
+    ],
+    "10": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Iron_Chest",
+          "Durability": 200,
+          "MaxDurability": 200
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Iron_Hands",
+          "Durability": 200,
+          "MaxDurability": 200
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Iron_Legs",
+          "Durability": 200,
+          "MaxDurability": 200
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Iron_Head",
+          "Durability": 200,
+          "MaxDurability": 200
+        }
+      }
+    ],
+    "20": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Bronze_Ornate_Chest",
+          "Durability": 300,
+          "MaxDurability": 300
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Bronze_Ornate_Hands",
+          "Durability": 300,
+          "MaxDurability": 300
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Bronze_Ornate_Head",
+          "Durability": 300,
+          "MaxDurability": 300
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Bronze_Legs",
+          "Durability": 300,
+          "MaxDurability": 300
+        }
+      }
+    ],
+    "30": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Cobalt_Chest",
+          "Durability": 350,
+          "MaxDurability": 350
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Cobalt_Hands",
+          "Durability": 350,
+          "MaxDurability": 350
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Cobalt_Head",
+          "Durability": 350,
+          "MaxDurability": 350
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Cobalt_Legs",
+          "Durability": 350,
+          "MaxDurability": 350
+        }
+      }
+    ],
+    "50": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Onyxium_Chest",
+          "Durability": 400,
+          "MaxDurability": 400
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Onyxium_Hands",
+          "Durability": 400,
+          "MaxDurability": 400
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Onyxium_Head",
+          "Durability": 400,
+          "MaxDurability": 400
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Onyxium_Legs",
+          "Durability": 400,
+          "MaxDurability": 400
+        }
+      }
+    ],
+    "75": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Mithril_Chest",
+          "Durability": 450,
+          "MaxDurability": 450
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Mithril_Hands",
+          "Durability": 450,
+          "MaxDurability": 450
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Mithril_Head",
+          "Durability": 450,
+          "MaxDurability": 450
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Mithril_Legs",
+          "Durability": 450,
+          "MaxDurability": 450
+        }
+      }
+    ],
+    "100": [
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Prisma_Chest",
+          "Durability": 500,
+          "MaxDurability": 500
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Prisma_Hands",
+          "Durability": 500,
+          "MaxDurability": 500
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Prisma_Head",
+          "Durability": 500,
+          "MaxDurability": 500
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Armor_Prisma_Legs",
+          "Durability": 500,
+          "MaxDurability": 500
+        }
+      }
+    ]
   }
 }
