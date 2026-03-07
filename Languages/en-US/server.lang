@@ -30,3 +30,5 @@ epherical.notifications.careers.levelup.minor=[Careers] Great Work {player} on l
 
 epherical.notifications.careers.place.fail.cached=[Careers] Cannot receive EXP because you have placed a block here recently.
 
+epherical.careers.action.place.cached=You cannot repeat actions in the same block repeatedly.
+
