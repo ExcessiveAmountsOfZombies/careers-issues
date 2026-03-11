@@ -244,5 +244,39 @@
         }
       }
     ]
+  },
+  "ChosenReward": {
+    "1": {
+      "ChoiceLimit": 1,
+      "Rewards": [
+        {
+          "Type": "XPIncrease",
+          "Modifier": {
+            "CalculationType": "Multiplicative",
+            "Amount": 0.03
+          }
+        },
+        {
+          "Type": "Stat",
+          "Modifier": {
+            "CalculationType": "Additive",
+            "Amount": 10
+          },
+          "Stat": "Health"
+        }
+      ]
+    },
+    "5": {
+      "ChoiceLimit": 1,
+      "Rewards": [
+        {
+          "Type": "Item",
+          "ItemId": {
+            "Id": "Rock_Gem_Diamond",
+            "Quantity": 4
+          }
+        }
+      ]
+    }
   }
 }
