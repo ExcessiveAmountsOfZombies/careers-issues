@@ -1,0 +1,19 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/Epherical/CareersLevelUp.ogg"
+      ],
+      "RandomSettings": {
+        "MinPitch": 0,
+        "MaxPitch": 0,
+        "MinVolume": 0
+      },
+      "Volume": 6.0
+    }
+  ],
+  "Volume": 0,
+  "MaxDistance": 5,
+  "StartAttenuationDistance": 1,
+  "MaxInstance": 10
+}

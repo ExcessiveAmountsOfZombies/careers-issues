@@ -204,5 +204,6 @@
         }
       }
     ]
-  }
+  },
+  "LevelUpSoundFX": "SFX_CareersLevelUp"
 }

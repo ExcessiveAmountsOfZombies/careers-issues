@@ -253,14 +253,14 @@
           "Type": "XPIncrease",
           "Modifier": {
             "CalculationType": "Multiplicative",
-            "Amount": 0.03
+            "Amount": 0.01
           }
         },
         {
           "Type": "Stat",
           "Modifier": {
             "CalculationType": "Additive",
-            "Amount": 10
+            "Amount": 5
           },
           "Stat": "Health"
         }
@@ -270,13 +270,50 @@
       "ChoiceLimit": 1,
       "Rewards": [
         {
-          "Type": "Item",
-          "ItemId": {
-            "Id": "Rock_Gem_Diamond",
-            "Quantity": 4
+          "Type": "Stat",
+          "Stat": "Stamina",
+          "Modifier": {
+            "CalculationType": "Additive",
+            "Amount": 5
+          }
+        },
+        {
+          "Type": "XPIncrease",
+          "Modifier": {
+            "CalculationType": "Multiplicative",
+            "Amount": 0.01
+          }
+        }
+      ]
+    },
+    "10": {
+      "ChoiceLimit": 2,
+      "Rewards": [
+        {
+          "Type": "XPIncrease",
+          "Modifier": {
+            "Amount": 0.01,
+            "CalculationType": "Multiplicative"
+          }
+        },
+        {
+          "Type": "Stat",
+          "Modifier": {
+            "CalculationType": "Additive",
+            "Amount": 10
+          },
+          "Stat": "Health"
+        },
+        {
+          "Type": "Stat",
+          "Stat": "Mana",
+          "Modifier": {
+            "Amount": 10,
+            "CalculationType": "Additive"
           }
         }
       ]
     }
-  }
+  },
+  "LevelUpSoundFX": "SFX_CareersLevelUp"
 }
