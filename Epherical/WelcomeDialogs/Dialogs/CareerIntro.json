@@ -1,0 +1,8 @@
+{
+  "Page": {
+    "Type": "CustomPage",
+    "UiPages": [
+      "Pages/Epherical/Careers/Dialogs/CareerDialogIntro.ui"
+    ]
+  }
+}
