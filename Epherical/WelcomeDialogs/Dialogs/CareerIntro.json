@@ -4,5 +4,6 @@
     "UiPages": [
       "Pages/Epherical/Careers/Dialogs/CareerDialogIntro.ui"
     ]
-  }
+  },
+  "Priority": 100
 }

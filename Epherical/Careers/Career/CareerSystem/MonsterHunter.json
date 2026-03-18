@@ -1,8 +1,8 @@
 {
-  "Icon": "Icons/ItemsGenerated/Tool_Hammer_Iron.png",
-  "Description": "Gain experience and money by building",
-  "Name": "Builder",
-  "Color": "#e1ae0c",
+  "Icon": "Icons/ItemsGenerated/Weapon_Sword_Runic.png",
+  "Description": "Gain experience and money by eliminating monsters!",
+  "Name": "Monster Hunter",
+  "Color": "#ad1014",
   "ExpScaling": "1000*1.05^(lvl-1)",
   "Notifications": [
     {
@@ -54,52 +54,59 @@
       {
         "Type": "Item",
         "ItemId": {
-          "Id": "Tool_Shovel_Iron",
-          "Quantity": 1,
-          "Durability": 500
+          "Id": "Weapon_Axe_Copper"
         }
       },
       {
         "Type": "Item",
         "ItemId": {
-          "Id": "Furniture_Crude_Torch",
-          "Quantity": 100
-        }
-      }
-    ],
-    "10": [
-      {
-        "Type": "Item",
-        "ItemId": {
-          "Id": "Tool_Shovel_Cobalt",
-          "Durability": 1000,
-          "Quantity": 1
+          "Id": "Weapon_Sword_Copper"
         }
       },
       {
         "Type": "Item",
         "ItemId": {
-          "Id": "Furniture_Ancient_Torch",
-          "Quantity": 100
+          "Id": "Weapon_Battleaxe_Copper"
         }
       },
       {
         "Type": "Item",
         "ItemId": {
-          "Id": "Furniture_Human_Ruins_Bookshelf",
-          "Quantity": 50
+          "Id": "Weapon_Club_Copper"
         }
-      }
-    ],
-    "100": [
+      },
       {
         "Type": "Item",
         "ItemId": {
-          "Id": "Launchpad",
-          "Quantity": 1
+          "Id": "Weapon_Daggers_Copper"
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Weapon_Longsword_Copper"
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Weapon_Mace_Copper"
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Weapon_Spear_Copper"
+        }
+      },
+      {
+        "Type": "Item",
+        "ItemId": {
+          "Id": "Weapon_Shield_Copper"
         }
       }
     ]
   },
-  "LevelUpSoundFX": "SFX_CareersLevelUp"
+  "LevelUpSoundFX": "SFX_CareersLevelUp",
+  "Category": "Careers"
 }
