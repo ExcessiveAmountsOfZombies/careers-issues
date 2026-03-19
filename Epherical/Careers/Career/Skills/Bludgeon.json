@@ -1,0 +1,9 @@
+{
+  "Category": "Skills",
+  "Icon": "Icons/ItemsGenerated/Weapon_Club_Mithril.png",
+  "Description": "Bludgeon the enemies that stand in your way with Maces and Clubs",
+  "Name": "Bludgeoning",
+  "Color": "#b3aaff",
+  "ExpScaling": "1000+(lvl*100)",
+  "LevelUpSoundFX": "SFX_CareersLevelUp"
+}

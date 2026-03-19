@@ -1,0 +1,9 @@
+{
+  "Category": "Skills",
+  "Icon": "Icons/ItemsGenerated/Plant_Crop_Wheat.png",
+  "Description": "Farm those crops",
+  "Name": "Farming",
+  "Color": "#b3aaff",
+  "ExpScaling": "1000+(lvl*100)",
+  "LevelUpSoundFX": "SFX_CareersLevelUp"
+}

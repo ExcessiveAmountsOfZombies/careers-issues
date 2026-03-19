@@ -1,0 +1,9 @@
+{
+  "Category": "Skills",
+  "Icon": "Icons/ItemsGenerated/Weapon_Axe_Doomed.png",
+  "Description": "Wielding an axe isn't for the faint of heart, slice your enemies down to the bone using Axes and Battleaxes",
+  "Name": "Axes",
+  "Color": "#b3aaff",
+  "ExpScaling": "1000+(lvl*100)",
+  "LevelUpSoundFX": "SFX_CareersLevelUp"
+}

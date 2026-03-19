@@ -1,0 +1,9 @@
+{
+  "Category": "Skills",
+  "Icon": "Icons/ItemsGenerated/Soil_Dirt.png",
+  "Description": "What will you find, with your head down, digging in the dirt?",
+  "Name": "Excavation",
+  "Color": "#b3aaff",
+  "ExpScaling": "1000+(lvl*100)",
+  "LevelUpSoundFX": "SFX_CareersLevelUp"
+}

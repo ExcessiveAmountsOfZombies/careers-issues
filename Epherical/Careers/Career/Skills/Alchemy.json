@@ -1,0 +1,9 @@
+{
+  "Category": "Skills",
+  "Icon": "Icons/ItemsGenerated/Bench_Alchemy.png",
+  "Description": "Alchemy is the process of creating potions to strengthen yourself.",
+  "Name": "Alchemy",
+  "Color": "#b3aaff",
+  "ExpScaling": "1000+(lvl*100)",
+  "LevelUpSoundFX": "SFX_CareersLevelUp"
+}

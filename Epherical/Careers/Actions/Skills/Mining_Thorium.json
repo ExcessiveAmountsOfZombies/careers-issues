@@ -1,0 +1,6 @@
+{
+  "Type": "BreakBlock",
+  "Career": "Mining",
+  "ExpReward": 500,
+  "Pattern": "Ore_Thorium_.*"
+}

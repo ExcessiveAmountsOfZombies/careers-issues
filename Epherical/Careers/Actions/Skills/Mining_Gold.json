@@ -1,0 +1,6 @@
+{
+  "Type": "BreakBlock",
+  "Career": "Mining",
+  "ExpReward": 600,
+  "Pattern": "Ore_Gold_.*"
+}

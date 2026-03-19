@@ -1,0 +1,6 @@
+{
+  "Type": "BreakBlock",
+  "Career": "Mining",
+  "ExpReward": 1500,
+  "Pattern": "Rock_Gem_.*"
+}

@@ -1,0 +1,9 @@
+{
+  "Category": "Skills",
+  "Icon": "Icons/ItemsGenerated/Weapon_Bow_Crude.png",
+  "Description": "Archery is what it's called when you shoot a bow and arrow. or a crossbow.",
+  "Name": "Archery",
+  "Color": "#b3aaff",
+  "ExpScaling": "1000+(lvl*100)",
+  "LevelUpSoundFX": "SFX_CareersLevelUp"
+}

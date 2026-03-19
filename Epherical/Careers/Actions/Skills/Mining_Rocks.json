@@ -1,0 +1,6 @@
+{
+  "Type": "BreakBlock",
+  "Career": "Mining",
+  "Pattern": "^Rock_[^_]+$",
+  "ExpReward": 50
+}

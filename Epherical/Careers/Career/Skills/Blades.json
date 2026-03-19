@@ -1,0 +1,9 @@
+{
+  "Category": "Skills",
+  "Icon": "Icons/ItemsGenerated/Weapon_Sword_Nexus.png",
+  "Description": "Knowing how to wield a blade is vitally important to surviving in this world. Train yourself in Daggers, Swords, and Longswords",
+  "Name": "Blades",
+  "Color": "#b3aaff",
+  "ExpScaling": "1000+(lvl*100)",
+  "LevelUpSoundFX": "SFX_CareersLevelUp"
+}
