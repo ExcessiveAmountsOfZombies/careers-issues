@@ -1,0 +1,12 @@
+{
+  "Type": "Damage",
+  "Career": "Archery",
+  "ExpReward": 10,
+  "DistanceModifierMultiplier": 1.0,
+  "DamageModifierMultiplier": 1.0,
+  "Condition": {
+    "Type": "DamageCauseCondition",
+    "DamageCause": "Projectile"
+  },
+  "RegexPattern": ".*"
+}
