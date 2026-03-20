@@ -1,0 +1,21 @@
+{
+  "Type": "Damage",
+  "Career": "Bludgeon",
+  "ExpReward": 10,
+  "DistanceModifierMultiplier": 0,
+  "DamageModifierMultiplier": 1.25,
+  "Condition": {
+    "Type": "AndCondition",
+    "And": [
+      {
+        "Type": "DamageCauseCondition",
+        "DamageCause": "Physical"
+      },
+      {
+        "Type": "ItemCondition",
+        "RegexPattern": "^(?:Weapon_Mace_.*|Weapon_Club_.*)$"
+      }
+    ]
+  },
+  "RegexPattern": ".*"
+}

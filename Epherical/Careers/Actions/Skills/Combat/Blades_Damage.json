@@ -1,0 +1,21 @@
+{
+  "Type": "Damage",
+  "Career": "Blades",
+  "ExpReward": 10,
+  "DistanceModifierMultiplier": 0,
+  "DamageModifierMultiplier": 1.25,
+  "Condition": {
+    "Type": "AndCondition",
+    "And": [
+      {
+        "Type": "DamageCauseCondition",
+        "DamageCause": "Physical"
+      },
+      {
+        "Type": "ItemCondition",
+        "RegexPattern": "^(?:Weapon_Longsword_.*|Weapon_Sword_.*)$"
+      }
+    ]
+  },
+  "RegexPattern": ".*"
+}
