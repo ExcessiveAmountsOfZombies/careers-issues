@@ -1,0 +1,6 @@
+{
+  "Type": "BreakBlock",
+  "Career": "Lumbering",
+  "ExpReward": 100,
+  "Pattern": "^Wood_[^_]+_(?:Trunk(?:_Full)?|Branch_(?:Long|Short|Corner))$"
+}

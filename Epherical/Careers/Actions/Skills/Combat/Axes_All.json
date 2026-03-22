@@ -17,5 +17,5 @@
       }
     ]
   },
-  "RegexPattern": ".*"
+  "RegexPattern": "^(?!.*(?:Test|Template)).*$"
 }

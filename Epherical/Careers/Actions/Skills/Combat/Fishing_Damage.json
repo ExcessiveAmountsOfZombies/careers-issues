@@ -1,0 +1,52 @@
+{
+  "Type": "Damage",
+  "Career": "Fishing",
+  "ExpReward": 10,
+  "DistanceModifierMultiplier": 0,
+  "DamageModifierMultiplier": 0.5,
+  "Condition": {
+    "Type": "OrCondition",
+    "Or": [
+      {
+        "Type": "DamageCauseCondition",
+        "DamageCause": "Physical"
+      },
+      {
+        "Type": "DamageCauseCondition",
+        "DamageCause": "Projectile"
+      }
+    ]
+  },
+  "RegexPattern": "",
+  "NPCIds": [
+    "Shellfish_Lava",
+    "Catfish",
+    "Clownfish",
+    "Jellyfish_Blue",
+    "Jellyfish_Cyan",
+    "Jellyfish_Green",
+    "Jellyfish_Man_Of_War",
+    "Jellyfish_Red",
+    "Jellyfish_Yellow",
+    "Pufferfish",
+    "Shark_Hammerhead",
+    "Tang_Blue",
+    "Tang_Chevron",
+    "Tang_Lemon_Peel",
+    "Tang_Sailfin",
+    "Trilobite_Black",
+    "Trilobite",
+    "Eel_Moray",
+    "Bluegill",
+    "Pike",
+    "Crab",
+    "Lobster",
+    "Frostgill",
+    "Minnow",
+    "Piranha_Black",
+    "Piranha",
+    "Salmon",
+    "Snapjaw",
+    "Trout_Rainbow"
+  ]
+}

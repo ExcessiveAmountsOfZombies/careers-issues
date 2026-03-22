@@ -8,5 +8,5 @@
     "Type": "DamageCauseCondition",
     "DamageCause": "Projectile"
   },
-  "RegexPattern": ".*"
+  "RegexPattern": "^(?!.*(?:Test|Template)).*$"
 }
