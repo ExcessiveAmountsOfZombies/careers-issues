@@ -1,6 +1,6 @@
 {
   "Type": "Damage",
-  "Career": "Archery",
+  "Career": "Wizardry",
   "ExpReward": 10,
   "DistanceModifierMultiplier": 1.0,
   "DamageModifierMultiplier": 1.0,
@@ -16,15 +16,7 @@
         "Or": [
           {
             "Type": "ProjectileTypeCondition",
-            "ProjectileType": "Arrow_HalfCharge"
-          },
-          {
-            "Type": "ProjectileTypeCondition",
-            "ProjectileType": "Arrow_FullCharge"
-          },
-          {
-            "Type": "ProjectileTypeCondition",
-            "ProjectileType": "Arrow_NoCharge"
+            "ProjectileType": "Skeleton_Mage_Corruption_Orb"
           }
         ]
       }
