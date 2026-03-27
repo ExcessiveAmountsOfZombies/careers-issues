@@ -1,0 +1,11 @@
+{
+  "Type": "Damage",
+  "Career": "Wizardry",
+  "ExpReward": 2,
+  "DistanceModifierMultiplier": 0,
+  "DamageModifierMultiplier": 1,
+  "Condition": {
+    "Type": "DamageDoneBySummon"
+  },
+  "RegexPattern": "^(?!.*(?:Test|Template)).*$"
+}

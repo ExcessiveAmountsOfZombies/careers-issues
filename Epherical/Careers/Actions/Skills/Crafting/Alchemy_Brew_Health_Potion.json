@@ -4,8 +4,8 @@
   "ExpReward": 15,
   "MoneyReward": 2,
   "Item": [
-    "Potion_Stamina_Lesser",
-    "Potion_Stamina_Greater"
+    "Potion_Health_Lesser",
+    "Potion_Health_Greater"
   ],
   "ExpRewardMultiplier": "base*quant",
   "MoneyRewardMultiplier": "base*(0.25*quant)"
