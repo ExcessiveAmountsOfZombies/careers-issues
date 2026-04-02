@@ -1,0 +1,35 @@
+{
+  "Type": "StrengthenCrafting",
+  "Scaling": {
+    "Id": "DirectLevelMap",
+    "LevelScaling": {
+      "50": 10,
+      "250": 100,
+      "500": 150,
+      "750": 225,
+      "1000": 250,
+      "1500": 300,
+      "10000": 600
+    }
+  },
+  "ItemIds": [
+    "Weapon_Sword_Cobalt",
+    "Weapon_Sword_Adamantite",
+    "Weapon_Sword_Copper",
+    "Weapon_Sword_Iron",
+    "Weapon_Sword_Mithril",
+    "Weapon_Sword_Onyxium",
+    "Weapon_Sword_Thorium",
+    "Weapon_Longsword_Cobalt",
+    "Weapon_Longsword_Adamantite",
+    "Weapon_Longsword_Copper",
+    "Weapon_Longsword_Iron",
+    "Weapon_Longsword_Mithril",
+    "Weapon_Longsword_Onyxium",
+    "Weapon_Longsword_Thorium"
+  ],
+  "UnlockLevel": 50,
+  "Career": "Blades",
+  "Name": "Tempered Blades",
+  "Description": "Adds additional durability to swords and longswords crafted by someone with the Blades Skill."
+}

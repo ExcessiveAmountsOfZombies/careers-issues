@@ -1,0 +1,28 @@
+{
+  "Type": "StrengthenCrafting",
+  "Scaling": {
+    "Id": "DirectLevelMap",
+    "LevelScaling": {
+      "50": 10,
+      "250": 100,
+      "500": 150,
+      "750": 225,
+      "1000": 250,
+      "1500": 300,
+      "10000": 600
+    }
+  },
+  "ItemIds": [
+    "Tool_Pickaxe_Cobalt",
+    "Tool_Pickaxe_Adamantite",
+    "Tool_Pickaxe_Copper",
+    "Tool_Pickaxe_Iron",
+    "Tool_Pickaxe_Mithril",
+    "Tool_Pickaxe_Onyxium",
+    "Tool_Pickaxe_Thorium"
+  ],
+  "UnlockLevel": 50,
+  "Career": "Mining",
+  "Name": "Durable Pickaxes",
+  "Description": "Adds additional durability to pickaxes crafted by someone with the Mining Skill."
+}

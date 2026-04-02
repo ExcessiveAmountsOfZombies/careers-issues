@@ -1,0 +1,35 @@
+{
+  "Type": "StrengthenCrafting",
+  "Scaling": {
+    "Id": "DirectLevelMap",
+    "LevelScaling": {
+      "50": 10,
+      "250": 100,
+      "500": 150,
+      "750": 225,
+      "1000": 250,
+      "1500": 300,
+      "10000": 600
+    }
+  },
+  "ItemIds": [
+    "Weapon_Mace_Cobalt",
+    "Weapon_Mace_Adamantite",
+    "Weapon_Mace_Copper",
+    "Weapon_Mace_Iron",
+    "Weapon_Mace_Mithril",
+    "Weapon_Mace_Onyxium",
+    "Weapon_Mace_Thorium",
+    "Weapon_Club_Cobalt",
+    "Weapon_Club_Adamantite",
+    "Weapon_Club_Copper",
+    "Weapon_Club_Iron",
+    "Weapon_Club_Mithril",
+    "Weapon_Club_Onyxium",
+    "Weapon_Club_Thorium"
+  ],
+  "UnlockLevel": 50,
+  "Career": "Bludgeon",
+  "Name": "Dense Bashers",
+  "Description": "Adds additional durability to maces and clubs crafted by someone with the Bludgeon Skill."
+}

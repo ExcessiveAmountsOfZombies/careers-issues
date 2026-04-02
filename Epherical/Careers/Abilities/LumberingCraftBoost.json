@@ -1,0 +1,28 @@
+{
+  "Type": "StrengthenCrafting",
+  "Scaling": {
+    "Id": "DirectLevelMap",
+    "LevelScaling": {
+      "50": 10,
+      "250": 100,
+      "500": 150,
+      "750": 225,
+      "1000": 250,
+      "1500": 300,
+      "10000": 600
+    }
+  },
+  "ItemIds": [
+    "Tool_Hatchet_Cobalt",
+    "Tool_Hatchet_Adamantite",
+    "Tool_Hatchet_Copper",
+    "Tool_Hatchet_Iron",
+    "Tool_Hatchet_Mithril",
+    "Tool_Hatchet_Onyxium",
+    "Tool_Hatchet_Thorium"
+  ],
+  "UnlockLevel": 50,
+  "Career": "Lumbering",
+  "Name": "Reinforced Hatchets",
+  "Description": "Adds additional durability to hatchets crafted by someone with the Lumbering Skill."
+}

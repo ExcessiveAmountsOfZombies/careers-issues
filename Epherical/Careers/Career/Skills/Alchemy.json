@@ -5,5 +5,57 @@
   "Name": "Alchemy",
   "Color": "#b3aaff",
   "ExpScaling": "1000+(lvl*100)",
-  "LevelUpSoundFX": "SFX_CareersLevelUp"
+  "LevelUpSoundFX": "SFX_CareersLevelUp",
+  "LevelReward": {
+    "50": [
+      {
+        "Type": "Stat",
+        "Modifier": {
+          "CalculationType": "Additive",
+          "Amount": 5
+        },
+        "Stat": "Mana"
+      }
+    ],
+    "250": [
+      {
+        "Type": "Stat",
+        "Modifier": {
+          "Amount": 25,
+          "CalculationType": "Additive"
+        },
+        "Stat": "Mana"
+      }
+    ],
+    "500": [
+      {
+        "Type": "Stat",
+        "Modifier": {
+          "Amount": 25,
+          "CalculationType": "Additive"
+        },
+        "Stat": "Mana"
+      }
+    ],
+    "750": [
+      {
+        "Type": "Stat",
+        "Modifier": {
+          "Amount": 25,
+          "CalculationType": "Additive"
+        },
+        "Stat": "Mana"
+      }
+    ],
+    "1000": [
+      {
+        "Type": "Stat",
+        "Modifier": {
+          "Amount": 25,
+          "CalculationType": "Additive"
+        },
+        "Stat": "Mana"
+      }
+    ]
+  }
 }

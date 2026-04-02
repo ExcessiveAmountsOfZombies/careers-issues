@@ -1,0 +1,26 @@
+{
+  "Type": "StrengthenCrafting",
+  "Scaling": {
+    "Id": "DirectLevelMap",
+    "LevelScaling": {
+      "50": 10,
+      "250": 100,
+      "500": 150,
+      "750": 225,
+      "1000": 250,
+      "1500": 300,
+      "10000": 600
+    }
+  },
+  "ItemIds": [
+    "Tool_Shovel_Cobalt",
+    "Tool_Shovel_Copper",
+    "Tool_Shovel_Crude",
+    "Tool_Shovel_Iron",
+    "Tool_Shovel_Thorium"
+  ],
+  "UnlockLevel": 50,
+  "Career": "Excavation",
+  "Name": "Durable Shovels",
+  "Description": "Adds additional durability to shovels crafted by someone with the Excavation Skill."
+}
