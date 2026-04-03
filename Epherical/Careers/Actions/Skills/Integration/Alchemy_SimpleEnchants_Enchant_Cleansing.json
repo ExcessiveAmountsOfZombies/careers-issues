@@ -1,0 +1,11 @@
+{
+  "Type": "Crafting",
+  "Career": "Alchemy",
+  "ExpReward": 2500,
+  "MoneyReward": 0,
+  "Pattern": "",
+  "ExpRewardMultiplier": "base*quant*(0.25*time)",
+  "Item": [
+    "Scroll_Cleansing"
+  ]
+}

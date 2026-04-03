@@ -1,8 +1,7 @@
 {
   "Type": "Crafting",
   "Career": "Alchemy",
-  "ExpReward": 15,
-  "MoneyReward": 2,
+  "ExpReward": 200,
   "Item": [
     "Potion_Signature_Lesser",
     "Potion_Signature_Greater"

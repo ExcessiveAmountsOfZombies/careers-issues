@@ -1,0 +1,8 @@
+{
+  "Type": "Crafting",
+  "Career": "Alchemy",
+  "ExpReward": 1000,
+  "MoneyReward": 0,
+  "Pattern": "^Scroll_(Dexterity|Frenzy|Knockback|Looting|Sharpness|Eagles_Eye|Strength|Absorption|Reflection)_II$",
+  "ExpRewardMultiplier": "base*quant*(0.25*time)"
+}
