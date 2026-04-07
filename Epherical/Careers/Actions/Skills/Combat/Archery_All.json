@@ -10,23 +10,6 @@
       {
         "Type": "DamageCauseCondition",
         "DamageCause": "Projectile"
-      },
-      {
-        "Type": "OrCondition",
-        "Or": [
-          {
-            "Type": "ProjectileTypeCondition",
-            "ProjectileType": "Arrow_HalfCharge"
-          },
-          {
-            "Type": "ProjectileTypeCondition",
-            "ProjectileType": "Arrow_FullCharge"
-          },
-          {
-            "Type": "ProjectileTypeCondition",
-            "ProjectileType": "Arrow_NoCharge"
-          }
-        ]
       }
     ]
   },

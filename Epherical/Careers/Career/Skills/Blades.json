@@ -5,5 +5,31 @@
   "Name": "Blades",
   "Color": "#b3aaff",
   "ExpScaling": "1000+(lvl*100)",
-  "LevelUpSoundFX": "SFX_CareersLevelUp"
+  "LevelUpSoundFX": "SFX_CareersLevelUp",
+  "LevelReward": {
+    "250": [
+      {
+        "Type": "Damage",
+        "Amount": 5
+      }
+    ],
+    "500": [
+      {
+        "Type": "Damage",
+        "Amount": 5
+      }
+    ],
+    "750": [
+      {
+        "Type": "Damage",
+        "Amount": 5
+      }
+    ],
+    "1000": [
+      {
+        "Type": "Damage",
+        "Amount": 5
+      }
+    ]
+  }
 }

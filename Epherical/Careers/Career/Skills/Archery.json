@@ -15,6 +15,11 @@
           "CalculationType": "Additive"
         },
         "Stat": "Health"
+      },
+      {
+        "Type": "Damage",
+        "Amount": 5,
+        "Icon": "Weapon_Crossbow_Ancient_Steel"
       }
     ],
     "500": [
@@ -25,6 +30,11 @@
           "CalculationType": "Additive"
         },
         "Stat": "Health"
+      },
+      {
+        "Type": "Damage",
+        "Amount": 5,
+        "Icon": "Weapon_Crossbow_Iron"
       }
     ],
     "750": [
@@ -35,6 +45,11 @@
           "CalculationType": "Additive"
         },
         "Stat": "Health"
+      },
+      {
+        "Type": "Damage",
+        "Amount": 5,
+        "Icon": "Weapon_Shortbow_Cobalt"
       }
     ],
     "1000": [
@@ -45,6 +60,11 @@
           "CalculationType": "Additive"
         },
         "Stat": "Health"
+      },
+      {
+        "Type": "Damage",
+        "Amount": 5,
+        "Icon": "Weapon_Shortbow_Adamantite"
       }
     ]
   }
